@@ -1765,7 +1765,7 @@ AudioSource:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 372011291}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 2e093619748b7de43add69b18d443fcc, type: 3}
@@ -1940,6 +1940,7 @@ MonoBehaviour:
   stylePanel: {fileID: 0}
   htpPanel: {fileID: 1181426752}
   slides: {fileID: 756280979}
+  apiHandler: {fileID: 0}
 --- !u!1001 &480582814
 PrefabInstance:
   m_ObjectHideFlags: 0
